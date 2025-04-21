@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p style="text-align: left;"> 
-  Olá, me chamo <strong>Gustavo Bomfim dos Santos</strong>. Sou um Técnico Audiovisual em transição para a área da <strong>Tecnologia</strong>. 
+  Olá, me chamo <strong>Gustavo Bomfim dos Santos</strong>. Sou Técnico de Audiovisual em transição para a área da <strong>Tecnologia</strong>. 
   Atualmente estou cursando Análise e Desenvolvimento de Sistemas e busco uma nova oportunidade para me desenvolver profissionalmente.
 </p>
 
