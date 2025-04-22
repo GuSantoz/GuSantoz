@@ -6,7 +6,7 @@
 </p>
 
 <p style="text-align: left;">
-  🦄 Linguagens: Python, HTML, CSS e JavaScript 
+  🦄 Linguagens: Python, MySQL, HTML, CSS e JavaScript 
 </p>
 
 <p style="text-align: left;">
