@@ -6,7 +6,11 @@
 </p>
 
 <p style="text-align: left;">
-  🦄 Linguagens: Python, MySQL, HTML, CSS e JavaScript 
+  🦄 Linguagens: Python, HTML, CSS e JavaScript 
+</p>
+
+<p align="left">
+  💼 Ferramentas: MySQL
 </p>
 
 <p style="text-align: left;">
